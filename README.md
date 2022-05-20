@@ -17,3 +17,6 @@
   <a href="https://www.t.me/epichere/">
     <img align="left" alt="Nandhu Krishna | Telegram" width="24px" src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Telegram.svg" />
   </a>
+
+
+![Snake animation](https://github.com/nandhukpvr/nandhukpvr/blob/output/github-contribution-grid-snake.svg)

@@ -14,3 +14,6 @@
   <a href="https://www.instagram.com/nandhuu.krishna/">
     <img align="left" alt="Nandhu Krishna | Instagram" width="24px" src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Instagram.svg" />
   </a>
+  <a href="https://www.t.me/epichere/">
+    <img align="left" alt="Nandhu Krishna | Telegram" width="24px" src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Telegram.svg" />
+  </a>

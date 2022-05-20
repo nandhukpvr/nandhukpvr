@@ -17,6 +17,7 @@
   <a href="https://www.t.me/epichere/">
     <img align="left" alt="Nandhu Krishna | Telegram" width="24px" src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Telegram.svg" />
   </a>
+# Stats 
 
-# <img src = "https://github-readme-stats.vercel.app/api?username=nandhukpvr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img src = "https://github-readme-stats.vercel.app/api?username=nandhukpvr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" left="35px">
 

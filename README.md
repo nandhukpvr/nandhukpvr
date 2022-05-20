@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m corrently learning c,python,js,...
 
-#Contact with me <img src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Handshake.gif" height="32px">
+# Contact with me <img src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Handshake.gif">
 
 <a href="mailto:nandhukrishnaperavoor@gmail.com">
     <img align="left" alt="Nandhu Krishna | Gmail" width="26px" src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Gmail.svg" />

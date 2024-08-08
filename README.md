@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m interested in programming
-- 🌱 I’m a 2nd year BSc Electronics student at [GCM](http://gcmananthavady.ac.in/)
+- 🌱 I’m a BSc Electronics Graduate from [GCM](http://gcmananthavady.ac.in/)
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m corrently learning c,python,js,...
 

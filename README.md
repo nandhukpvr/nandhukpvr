@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m corrently learning c,python,js,...
 
-# Stats
+<!--# Stats
 <img src = "https://github-readme-stats.vercel.app/api?username=nandhukpvr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" left="35px">
-
+-->
 # Contact with me <img src="https://github.com/nandhukpvr/nandhukpvr/blob/main/Assets/Handshake.gif" height="25px" width="40px">
 
 <a href="mailto:nandhukrishnaperavoor@gmail.com">
